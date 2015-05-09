@@ -49,4 +49,6 @@ gem 'font-awesome-rails'
 
 gem 'simple_form'
 
+gem 'auto_html'
+
 gem 'devise'
